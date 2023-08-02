@@ -265,3 +265,9 @@ div#swiper_container {
 #page-header:not(.not-top-img):before {
   background: rgba(0,0,0,0.1) !important;
 }
+
+@media screen and (max-width: 420px){
+  #web_bg{
+    background-position: 25% !important;
+  }
+}
